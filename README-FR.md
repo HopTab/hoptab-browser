@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/tqx8Gp7.png" alt="Maquette" width="100%"/>
+<img src="/assets/img/Banner-Round.png" width="100%" alt="Maquette"/>
 
 # HopTab Browser ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
